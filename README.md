@@ -21,25 +21,42 @@ Assignment 1: 88/90 = 97.78%
      
 Assignment 2: 100/100 = 100.00%
 
-Assignment 3: 91/100 = 91.00%
-
-     - Question 1: ✓ - 10/10 pts
+     - Question 1:  ✓ - 10/10 pts
 
      - Question 2a: ✓ - 10/10 pts
 
-     - Question 2b:  ✓ - 20/20 pts
+     - Question 2b: ✓ - 10/10 pts
+
+     - Question 2c: ✓ - 15/15 pts
+
+     - Question 2d: ✓ - 15/15 pts
+
+     - Question 3a: ✓ - 10/10 pts
+
+     - Question 3b: ✓ - 10/10 pts
+
+     - Question 3c: ✓ - 20/20 pts
+
+Assignment 3: 91/100 = 91.00%
+
+     - Question 1:     ✓ - 10/10 pts
+
+     - Question 2a:    ✓ - 10/10 pts
+
+     - Question 2b:    ✓ - 20/20 pts
 
      - Question 2c i:  ✓ - 10/10 pts
 
-     - Question 2c ii:  ✓ - 10/10 pts
+     - Question 2c ii: ✓ - 10/10 pts
 
-     - Question 2c iii:  "You are supposed to use Chebyshev quadrature to evaluate integrals involving Hermite polynomials as well as the Hermite quadrature. So, half of the question is not answered." - 11/20 pts
+     - Question 2c iii: "You are supposed to use Chebyshev quadrature to evaluate integrals involving Hermite polynomials as well as the Hermite quadrature. So, half of the question is not answered." - 11/20 pts
 
-     - Question 2c iv:  ✓ - 20/20 pts
+     - Question 2c iv: ✓ - 20/20 pts
 
 Assignment 4: 
 
 Assignment 5: 
 
+Midterm: 65/85 = 76.47%
 
 
