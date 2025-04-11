@@ -53,7 +53,21 @@ Assignment 3: 91/100 = 91.00%
 
      - Question 2c iv: ✓ - 20/20 pts
 
-Assignment 4: 
+Assignment 4: 90/90 = 100%
+
+     - "well done and well organized"
+     
+     - Question 1:  ✓ - 10/10 pts
+
+     - Question 2: ✓ - 15/15 pts
+
+     - Question 3: ✓ - 20/20 pts
+
+     - Question 4: ✓ - 20/20 pts
+
+     - Question 5: ✓ - 20/20 pts
+
+     - Question 6: ✓ - 5/5 pts
 
 Assignment 5: 
 
