@@ -1,5 +1,7 @@
 # PHYS 581
 Coursework for PHYS 581 "Computational Physics III" - Winter 2025
+Final Letter Grade:
+### A-
 
 Grades:
 
@@ -69,7 +71,7 @@ Assignment 4: 90/90 = 100%
 
      - Question 6: ✓ - 5/5 pts
 
-Assignment 5: 
+Assignment 5: 100/100 = 100%
 
 Midterm: 65/85 = 76.47%
 
